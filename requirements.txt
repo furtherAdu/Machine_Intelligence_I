@@ -1,0 +1,10 @@
+ipython==7.19.0
+matplotlib==3.3.2
+notebook==6.1.5
+numpy==1.19.4
+scipy==1.5.4
+pgmpy==0.1.12
+keras
+scikit-learn
+ipython
+tensorflow
